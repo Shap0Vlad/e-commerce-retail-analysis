@@ -45,3 +45,5 @@ Tools Used:
  - Conditional Formatting
  - Calculated Fields
  - Basic business metrics (Revenue, AOV)
+
+The /data folder contains the Excel file used for data cleaning, profiling, pivot analysis, and KPI calculations.
